@@ -36,3 +36,24 @@ http://127.0.0.1:5500/
 git clone https://github.com/REDDIKAVYA/Quiz-App.git
 cd Quiz-App
 
+
+2 . # Install dependencies
+npm install
+
+3 . Start the development server
+npm run dev
+
+
+# Project structure
+
+Quiz-App/
+├── public/
+├── src/
+│   ├── components/
+│   ├── data/
+│   ├── App.tsx
+│   └── main.tsx
+├── index.html
+├── package.json
+└── vite.config.ts
+
