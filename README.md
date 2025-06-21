@@ -36,13 +36,28 @@ http://127.0.0.1:5500/
 git clone https://github.com/REDDIKAVYA/Quiz-App.git
 cd Quiz-App
 
-2.  Install dependencies
+2. **Install dependencies**
+```bash
 npm install
 
 3. Start the development server
 npm run dev
 ---
 
+#  Project Structure
 
+Quiz-App/
+├── public/
+├── src/
+│   ├── components/
+│   ├── data/
+│   ├── App.tsx
+│   └── main.tsx
+├── index.html
+├── package.json
+└── vite.config.ts
+
+#  Author
+Kavya Reddy
 
 
